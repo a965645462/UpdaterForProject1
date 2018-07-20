@@ -1,4 +1,4 @@
 
-<Version: 1.00>
-/data/Map002.json https://github.com/a965645462/UpdaterForProject1/blob/master/Map002.json
+<Version: 0.00>
+
 <End of Version>
